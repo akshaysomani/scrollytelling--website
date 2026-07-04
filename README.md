@@ -15,7 +15,7 @@ This is a cinematic, scroll-driven web experience built with Next.js (App Router
    ```
 
 3. **Open the browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000) to view the scrollytelling experience.
+   Navigate to [http://localhost:3001/](http://localhost:3000) to view the scrollytelling experience.
 
 4. **Production build verification:**
    ```bash
